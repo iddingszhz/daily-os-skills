@@ -51,6 +51,4 @@ XXX.skill/
 
 ---
 
-## 自制 Skill
 
-参考 [Diary OS 模块开发指南](https://github.com/iddingszhz/Life_Daliy_OS/blob/main/core/模块开发指南.md) 和 [Book Skill Builder](https://github.com/anomalyco/opencode-skills) 打包自己的知识源。
