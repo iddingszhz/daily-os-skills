@@ -1,0 +1,20 @@
+{
+  "name": "minimalism-book",
+  "displayName": "《极简主义》知识源",
+  "description": "安装后在 Diary OS 中自动配置极简主义模块、15 个概念实体、28 条金句和 13 个日记场景映射",
+  "type": "knowledge-source",
+  "version": "1.0.0",
+  "book": {
+    "title": "极简主义",
+    "author": "乔舒亚·菲尔茨·米尔本，瑞安·尼科迪默斯",
+    "translator": "李紫"
+  },
+  "install": {
+    "level": "L1",
+    "available_levels": ["L1", "L2", "L3"],
+    "target": "Diary OS",
+    "target_check": ["modules/manifest.json", "core/日记格式标准.md", "user/wiki/entities/"]
+  },
+  "bss_rating": "S",
+  "createdAt": "2026-06-02"
+}
