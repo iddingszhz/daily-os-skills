@@ -1,0 +1,14 @@
+{
+  "name": "book-skill-builder",
+  "displayName": "Book Skill Builder",
+  "description": "书籍 TXT → Book Skill 生成器。给定一本 TXT，自动提取概念、金句、结构，生成标准的 opencode Book Skill 包。",
+  "type": "tool",
+  "version": "1.0.0",
+  "install": {
+    "level": "L0",
+    "target": "opencode",
+    "target_check": []
+  },
+  "bss_rating": "S",
+  "createdAt": "2026-06-04"
+}

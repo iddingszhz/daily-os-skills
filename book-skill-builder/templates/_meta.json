@@ -1,0 +1,19 @@
+{
+  "name": "{{slug}}",
+  "displayName": "《{{book_title}}》知识源",
+  "description": "{{description}}",
+  "type": "knowledge-source",
+  "version": "1.0.0",
+  "book": {
+    "title": "{{book_title}}",
+    "author": "{{book_author}}"
+  },
+  "install": {
+    "level": "L1",
+    "available_levels": ["L1", "L2", "L3"],
+    "target": "Diary OS",
+    "target_check": ["modules/manifest.json", "core/", "user/wiki/entities/"]
+  },
+  "bss_rating": "S",
+  "createdAt": "{{today}}"
+}
