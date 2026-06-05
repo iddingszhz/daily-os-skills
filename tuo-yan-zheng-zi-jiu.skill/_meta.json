@@ -1,0 +1,21 @@
+{
+  "name": "tuo-yan-zheng-zi-jiu",
+  "displayName": "《拖延症患者自救手册》知识源",
+  "description": "安装后在 Diary OS 中自动配置拖延症自救模块、15 个核心概念、25 条金句和 13 个日记场景映射",
+  "type": "knowledge-source",
+  "version": "1.0.0",
+  "book": {
+    "title": "拖延症患者自救手册",
+    "original_title": "Procrastination Self-Help Manual",
+    "author": "加兰·库尔森（Garland Coulson）",
+    "translator": "王青"
+  },
+  "install": {
+    "level": "L1",
+    "available_levels": ["L1", "L2", "L3"],
+    "target": "Diary OS",
+    "target_check": ["modules/manifest.json", "core/日记格式标准.md", "user/wiki/entities/"]
+  },
+  "bss_rating": "S",
+  "createdAt": "2026-06-05"
+}

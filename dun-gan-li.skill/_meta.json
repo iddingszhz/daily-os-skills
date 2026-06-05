@@ -1,0 +1,20 @@
+{
+  "name": "dun-gan-li",
+  "displayName": "《钝感力》知识源",
+  "description": "安装后在 Diary OS 中自动配置钝感力模块、15 个概念实体、26 条金句和 13 个日记场景映射",
+  "type": "knowledge-source",
+  "version": "1.0.0",
+  "book": {
+    "title": "钝感力",
+    "author": "渡边淳一",
+    "translator": ""
+  },
+  "install": {
+    "level": "L1",
+    "available_levels": ["L1", "L2", "L3"],
+    "target": "Diary OS",
+    "target_check": ["modules/manifest.json", "core/日记格式标准.md", "user/wiki/entities/"]
+  },
+  "bss_rating": "S",
+  "createdAt": "2026-06-05"
+}

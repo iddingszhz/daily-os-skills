@@ -1,0 +1,21 @@
+{
+  "name": "fan-cui-ruo.skill",
+  "displayName": "《反脆弱》知识源",
+  "description": "安装后在 Diary OS 中自动配置反脆弱模块、15 个概念实体、30 条金句、7 卷摘要和 15 个日记场景映射",
+  "type": "knowledge-source",
+  "version": "1.0.0",
+  "book": {
+    "title": "反脆弱",
+    "author": "纳西姆·尼古拉斯·塔勒布（Nassim Nicholas Taleb）",
+    "translator": "雨珂",
+    "english_title": "Antifragile: Things That Gain from Disorder"
+  },
+  "install": {
+    "level": "L1",
+    "available_levels": ["L1", "L2", "L3"],
+    "target": "Diary OS",
+    "target_check": ["modules/manifest.json", "core/日记格式标准.md", "user/wiki/entities/"]
+  },
+  "bss_rating": "S",
+  "createdAt": "2026-06-05"
+}

@@ -12,6 +12,10 @@
 |-------|------|-----------|----------|
 | [minimalism-book](./minimalism-book.skill/) | 知识源 | 《极简主义》米尔本 & 尼科迪默斯 | 五大价值、锚、打包派对、简单成功方程 |
 | [delay-gratification](./delay-gratification.skill/) | 知识源 | 《延迟满足》沃尔特·米歇尔 | 双系统理论、如果—就计划、心理距离、自我疏离 |
+| [dun-gan-li](./dun-gan-li.skill/) | 知识源 | 《钝感力》渡边淳一 | 钝感力、自律神经、得寸进尺的才能、睡眠能力 |
+| [fan-cui-ruo](./fan-cui-ruo.skill/) | 知识源 | 《反脆弱》纳西姆·塔勒布 | 反脆弱性、杠铃策略、否定法、林迪效应 |
+| [ren-sheng-de-zhi-hui](./ren-sheng-de-zhi-hui.skill/) | 知识源 | 《人生的智慧》叔本华 | 人的自身、痛苦与无聊、菲利斯特人、闲暇 |
+| [tuo-yan-zheng-zi-jiu](./tuo-yan-zheng-zi-jiu.skill/) | 知识源 | 《拖延症患者自救手册》加兰·库尔森 | 拖延类型、上层结构、意念训练、任务分诊 |
 | [book-skill-builder](./book-skill-builder.skill/) | 工具 | 书籍 TXT → Book Skill 生成器 | 自动提取概念、金句、结构，生成标准 Skill 包 |
 
 ## 安装方法
